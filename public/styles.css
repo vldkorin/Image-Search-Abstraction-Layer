@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    background: #969090;
+  }
+  
+  form {
+    margin-bottom: 1rem;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+ 
